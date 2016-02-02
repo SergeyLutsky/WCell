@@ -117,7 +117,7 @@
 
 //            node.Add("Languages", ChatLanguage.Common);
 
-//            node.Add("AttackTime", clss.AttackTime);
+//            node.Add("MeleeAttackTime", clss.MeleeAttackTime);
 //            node.Add("MaxDamage", clss.MaxDamage);
 //            node.Add("MinDamage", clss.MinDamage);
 //            node.Add("PowerType", clss.PowerType);
